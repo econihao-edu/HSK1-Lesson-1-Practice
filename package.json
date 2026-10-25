@@ -1,0 +1,8 @@
+{
+  "name": "eco-ni-hao-online-practice-buoi01",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node --test tests/core.test.cjs"
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "paper": "Paper worksheet Buoi01 V5",
+  "audio": [
+    {
+      "id": "tone3",
+      "path": "…/HSK 1 3.0 file nghe workbook/第01课/语音.mp3",
+      "start": 160.2,
+      "end": 161.25,
+      "expected": "ǎ",
+      "source": "Workbook Unit1 语音, printed pp.2–3",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "tone1",
+      "path": "…/HSK 1 3.0 file nghe workbook/第01课/语音.mp3",
+      "start": 156.24,
+      "end": 157.04,
+      "expected": "ā",
+      "source": "Workbook Unit1 语音, printed pp.2–3",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "tone4",
+      "path": "…/HSK 1 3.0 file nghe workbook/第01课/语音.mp3",
+      "start": 162.24,
+      "end": 163.04,
+      "expected": "à",
+      "source": "Workbook Unit1 语音, printed pp.2–3",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "tone2",
+      "path": "…/HSK 1 3.0 file nghe workbook/第01课/语音.mp3",
+      "start": 158.13,
+      "end": 159.1,
+      "expected": "á",
+      "source": "Workbook Unit1 语音, printed pp.2–3",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "initial_b",
+      "path": "…/HSK 1 3.0 file nghe workbook/第01课/语音.mp3",
+      "start": 98.52,
+      "end": 99.06,
+      "expected": "b",
+      "source": "Workbook Unit1 语音, printed pp.2–3",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "initial_t",
+      "path": "…/HSK 1 3.0 file nghe workbook/第01课/语音.mp3",
+      "start": 107.03,
+      "end": 107.84,
+      "expected": "t",
+      "source": "Workbook Unit1 语音, printed pp.2–3",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "initial_f",
+      "path": "…/HSK 1 3.0 file nghe workbook/第01课/语音.mp3",
+      "start": 103.57,
+      "end": 104.34,
+      "expected": "f",
+      "source": "Workbook Unit1 语音, printed pp.2–3",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "initial_n",
+      "path": "…/HSK 1 3.0 file nghe workbook/第01课/语音.mp3",
+      "start": 108.83,
+      "end": 109.57,
+      "expected": "n",
+      "source": "Workbook Unit1 语音, printed pp.2–3",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "D1_FULL",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-1.mp3",
+      "start": 0,
+      "end": 6.373895833333333,
+      "expected": "AI小语，你好！王老师，你好！",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "D2_FULL",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-3.mp3",
+      "start": 0,
+      "end": 9.6653125,
+      "expected": "大家好！老师，您好！你们好！你好，小语！",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "D2_T1",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-3.mp3",
+      "start": 0,
+      "end": 1.61,
+      "expected": "大家好！",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "D2_T2",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-3.mp3",
+      "start": 1.61,
+      "end": 4.82,
+      "expected": "老师，您好！",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "D2_T3",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-3.mp3",
+      "start": 4.82,
+      "end": 6.81,
+      "expected": "你们好！",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "D2_T4",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-3.mp3",
+      "start": 6.81,
+      "end": 9.6653125,
+      "expected": "你好，小语！",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "V04_1",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-4.mp3",
+      "start": 4.997415,
+      "end": 5.925805,
+      "expected": "学生",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "V06_1",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-4.mp3",
+      "start": 10.712789,
+      "end": 11.606371999999999,
+      "expected": "老师",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "V07_1",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-4.mp3",
+      "start": 13.548889,
+      "end": 14.255237999999999,
+      "expected": "您",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    },
+    {
+      "id": "V08_1",
+      "path": "…/HSK 1 Textbook/Lesson 01/01-4.mp3",
+      "start": 16.232765999999998,
+      "end": 16.942358000000002,
+      "expected": "你们",
+      "source": "Textbook Unit1 printed pp.1–2",
+      "verification": "book_order_ASR_and_silence_boundaries; teacher_listening_review_pending"
+    }
+  ],
+  "notes": [
+    "Original Eco practice adapted from paper, not official workbook questions.",
+    "Phonetics: ā á ǎ à replace paper mā má mǎ mà, same objective. Initial names b/t/f/n replace paper syllables bā/tā/fā/nā, same target contrasts.",
+    "Scope TB pp1–2; excludes thanks/goodbye.",
+    "V2 audio examples: D1_T1 and D1_T2 cut from TB01-1 by existing verified manifest; example-tone ē from WB语音 166.14–167.11 seconds."
+  ],
+  "version": "eco-buoi01-practice-v2",
+  "questions": [
+    {
+      "id": "A1",
+      "paper": "A",
+      "audio": "assets/audio/tone3.mp3",
+      "task": "Thanh điệu"
+    },
+    {
+      "id": "A2",
+      "paper": "A",
+      "audio": "assets/audio/tone1.mp3",
+      "task": "Thanh điệu"
+    },
+    {
+      "id": "A3",
+      "paper": "A",
+      "audio": "assets/audio/tone4.mp3",
+      "task": "Thanh điệu"
+    },
+    {
+      "id": "A4",
+      "paper": "A",
+      "audio": "assets/audio/tone2.mp3",
+      "task": "Thanh điệu"
+    },
+    {
+      "id": "A5",
+      "paper": "B",
+      "audio": "assets/audio/initial_b.mp3",
+      "task": "Âm đầu"
+    },
+    {
+      "id": "A6",
+      "paper": "B",
+      "audio": "assets/audio/initial_t.mp3",
+      "task": "Âm đầu"
+    },
+    {
+      "id": "A7",
+      "paper": "B",
+      "audio": "assets/audio/initial_f.mp3",
+      "task": "Âm đầu"
+    },
+    {
+      "id": "A8",
+      "paper": "B",
+      "audio": "assets/audio/initial_n.mp3",
+      "task": "Âm đầu"
+    },
+    {
+      "id": "A9",
+      "paper": "E",
+      "audio": "assets/audio/V07_1.mp3",
+      "task": "Chọn từ"
+    },
+    {
+      "id": "A10",
+      "paper": "C–F",
+      "audio": "assets/audio/D2_T3.mp3",
+      "task": "Chọn câu"
+    },
+    {
+      "id": "A11",
+      "paper": "C–E",
+      "audio": "assets/audio/V06_1.mp3",
+      "task": "Chọn hình"
+    },
+    {
+      "id": "A12",
+      "paper": "C–E",
+      "audio": "assets/audio/V04_1.mp3",
+      "task": "Chọn hình"
+    },
+    {
+      "id": "B1",
+      "paper": "C–F",
+      "audio": "assets/audio/D1_FULL.mp3",
+      "task": "Đúng / Sai"
+    },
+    {
+      "id": "B2",
+      "paper": "C–F",
+      "audio": "assets/audio/D2_T2.mp3",
+      "task": "Đúng / Sai"
+    },
+    {
+      "id": "B3",
+      "paper": "C–F",
+      "audio": "assets/audio/D2_T1.mp3",
+      "task": "Đúng / Sai"
+    },
+    {
+      "id": "B4",
+      "paper": "C–F",
+      "audio": "assets/audio/D2_FULL.mp3",
+      "task": "Đúng / Sai"
+    },
+    {
+      "id": "C1",
+      "paper": "F",
+      "audio": "assets/audio/D2_T1.mp3",
+      "task": "Ngân hàng từ"
+    },
+    {
+      "id": "C2",
+      "paper": "F",
+      "audio": "assets/audio/D2_T2.mp3",
+      "task": "Ngân hàng từ"
+    },
+    {
+      "id": "C3",
+      "paper": "F",
+      "audio": "assets/audio/D2_T3.mp3",
+      "task": "Ngân hàng từ"
+    },
+    {
+      "id": "C4",
+      "paper": "F",
+      "audio": "assets/audio/D2_T4.mp3",
+      "task": "Ngân hàng từ"
+    },
+    {
+      "id": "D1",
+      "paper": "C–D–F",
+      "audio": "assets/audio/D2_FULL.mp3",
+      "task": "Xếp lời thoại"
+    },
+    {
+      "id": "D2",
+      "paper": "D–F",
+      "audio": "assets/audio/D1_FULL.mp3",
+      "task": "Hiểu lượt lời"
+    },
+    {
+      "id": "D3",
+      "paper": "F2",
+      "audio": "assets/audio/D1_T2.mp3",
+      "task": "Nối lời đáp"
+    },
+    {
+      "id": "D4",
+      "paper": "F3",
+      "audio": "assets/audio/D2_T3.mp3",
+      "task": "Nối lời đáp"
+    }
+  ],
+  "examples": [
+    {
+      "title": "Ví dụ · Nhận diện thanh điệu",
+      "hint": "Nghe một âm khác với các câu tính điểm. Chọn thanh nghe được.",
+      "audio": "assets/audio/example-tone.mp3",
+      "options": [
+        "Thanh 1 · ngang",
+        "Thanh 2 · lên",
+        "Thanh 3 · thấp rồi lên",
+        "Thanh 4 · xuống"
+      ],
+      "answer": 0,
+      "explain": "Đây là ē, thanh 1: giọng giữ tương đối cao và ngang. Ví dụ này không tính điểm."
+    },
+    {
+      "title": "Ví dụ · Nghe rồi nhận định",
+      "hint": "Nghe Tiểu Ngữ nói và kiểm tra nhận định: “Người nói gọi cô Vương”.",
+      "audio": "assets/audio/D1_T2.mp3",
+      "options": [
+        "Đúng",
+        "Sai"
+      ],
+      "answer": 0,
+      "explain": "Đúng. Bạn nghe 王老师，你好！ — Tiểu Ngữ đang chào cô Vương. Ví dụ không tính điểm."
+    },
+    {
+      "title": "Ví dụ · Điền từ bằng thẻ",
+      "hint": "Nghe và hoàn thành: AI____，你好！ Chọn một thẻ, không cần gõ chữ.",
+      "audio": "assets/audio/D1_T1.mp3",
+      "options": [
+        "小语 Xiǎoyǔ",
+        "大家 dàjiā",
+        "您 nín"
+      ],
+      "answer": 0,
+      "explain": "AI小语，你好！ Cô Vương đang chào AI Tiểu Ngữ. Khi nghe bài thật, hãy chọn thẻ để lấp chỗ trống. Ví dụ không tính điểm."
+    },
+    {
+      "title": "Ví dụ · Nối lời chào",
+      "hint": "Nghe lời chào. Chọn lời Tiểu Ngữ đáp lại cô Vương theo bài khóa.",
+      "audio": "assets/audio/D1_T1.mp3",
+      "options": [
+        "王老师，你好！ Wáng lǎoshī, nǐ hǎo!",
+        "你们好！ Nǐmen hǎo!"
+      ],
+      "answer": 0,
+      "explain": "王老师，你好！ là lời Tiểu Ngữ chào lại cô trong bài khóa. Với bài xếp lời, bấm thẻ theo thứ tự; bấm thẻ đã chọn để bỏ và xếp lại. Ví dụ không tính điểm."
+    }
+  ]
+}
